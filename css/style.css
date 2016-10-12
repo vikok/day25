@@ -17,14 +17,16 @@ html {
 body {
 	font: 300 20px/1.5 "Lato", Arial, serif;
 	color: #fff;
-
 }
 
 .ba-container {
 	background-color:  #ffffff;
 	box-shadow: 0px 4px 68px 0px rgba(0, 0, 0, 0.1);
 	margin: 100px 130px;
+	width: 1400px;
+	height: 940px;
 }
+
 .ba-title {
 	font-family: "Playfair Display", serif;
 	color:  #171717;
@@ -41,8 +43,8 @@ body {
 	font-weight: 300;
 	text-align: left;
 	line-height: 34px;
-	width: 1400px;
-	height: 940px;
+	width: 1150px;
+	height: 500px;
 	padding: 140px 138px 140px 121px;
 }
 
